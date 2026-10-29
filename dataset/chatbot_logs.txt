@@ -1,0 +1,23 @@
+2026-10-29 20:17:06,223 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-29 20:17:06,231 - INFO - Question: What is Artificial Intelligence? | Response: Okay, let’s break down Artificial Intelligence (AI) – it’s a really fascinating and rapidly evolving topic! 
+
+**In simple terms, Artificial Intelligence is about making computers think and act like humans.**  We’re teaching machines to do things that usually require human intelligence, like learning, problem-solving, and understanding language.
+
+**Instead of just following instructions we give them directly, AI tries to *learn* from data and experience.** 
+
+Let's break that down further with some examples:
+
+* **Traditional Programming:** You tell a computer *exactly* what to do step-by-step.  Like, “If the light is green, go forward.”  It’s very predictable.
+* **
+2026-10-29 20:17:22,897 - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-10-29 20:17:22,902 - INFO - Question: Explain it with a real-world example. | Response: Okay, let’s use **Netflix** as an example.
+
+**How Netflix uses AI:**
+
+Netflix uses AI in a LOT of ways to suggest shows and movies you might like. Here's how it works:
+
+1. **Watching You:** Netflix starts by tracking *what* you watch – what shows you watch, how long you watch them, and when you watch them.  This data is crucial.
+
+2. **Learning Your Preferences:**  AI algorithms (think of them as a really sophisticated pattern-recognition system) analyze this data. They learn *what kinds of stories you enjoy*, what genres you gravitate towards, and which actors/directors you like.
+
+3. **Recommendation Engines:** Based on this learning,

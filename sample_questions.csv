@@ -1,0 +1,23 @@
+
+Question_ID,Category,Question
+1,Factual,What is Artificial Intelligence?
+2,Factual,What is Machine Learning?
+3,Factual,What is Deep Learning?
+4,Factual,What is Natural Language Processing?
+5,Factual,What is the difference between AI and ML?
+6,Reasoning,Why is Python widely used in Artificial Intelligence?
+7,Reasoning,How can AI improve the education system?
+8,Reasoning,Why is data preprocessing important in Machine Learning?
+9,Reasoning,How does overfitting affect a Machine Learning model?
+10,Reasoning,Why do chatbots need conversation history?
+11,Coding,Write a Python program to check whether a number is prime.
+12,Coding,Write a Python program to calculate factorial using recursion.
+13,Coding,Explain how to reverse a string in Python.
+14,Coding,Write a Python program to find the largest number in a list.
+15,Coding,Explain the difference between a list and a tuple in Python.
+16,General Conversation,Hello CampusAI how are you?
+17,General Conversation,Can you help me prepare for my exams?
+18,General Conversation,What are some effective study techniques?
+19,General Conversation,How can I improve my programming skills?
+20,General Conversation,Thank you for helping me today.
+
